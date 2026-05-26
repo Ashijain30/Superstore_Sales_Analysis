@@ -29,3 +29,6 @@ This project builds a data-driven system to predict future sales using ML.
 ## ✅ Conclusion
 After removing outliers using IQR method, the Random Forest model improved
 significantly with MAE dropping from 266 to 67.
+
+<img width="1157" height="640" alt="Screenshot 2026-05-26 203548" src="https://github.com/user-attachments/assets/9fddc75e-4b15-40f7-8139-3f0314223c63" />
+
